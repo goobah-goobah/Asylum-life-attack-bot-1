@@ -13,7 +13,7 @@ local JUMP_PHRASE = "jump"
 
 local START_AUTO_DEFEND_PHRASE = "auto defend"
 local STOP_AUTO_DEFEND_PHRASE = "stop auto defending"
-local AUTO_DEFEND_TARGET = "therealsteve777"
+local AUTO_DEFEND_TARGET = "Put ur user ig here"
 
 local START_RAGE_PHRASE = "rage mode"
 local STOP_RAGE_PHRASE = "stop rage"
